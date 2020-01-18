@@ -1,5 +1,7 @@
-#Folders
+#Folders and files
 .conf/
+.vscode/
+testing.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
